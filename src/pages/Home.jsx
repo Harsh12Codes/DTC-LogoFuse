@@ -76,7 +76,7 @@ const Home = () => {
 
     return (
         <div className="w-full min-h-screen h-full flex flex-col items-center">
-            <div className="w-full  h-full flex justify-between items-center bg-white font-inter p-4 flex-1 max-1000:flex-col max-1000:gap-8">
+            <div className="w-full  h-full flex justify-between items-center bg-white font-inter p-4 flex-1 max-1000:flex-col max-1000:gap-8 1000:pb-0">
                 <div className="flex justify-center items-center">
                     <Hero />
                 </div>
