@@ -1,4 +1,5 @@
 # DTC-LogoFuse
+![image](https://github.com/Harsh12Codes/DTC-LogoFuse/assets/83909388/7518aaed-816f-4551-a6a6-c8f0ad28a622)
 
 ## Description
 
