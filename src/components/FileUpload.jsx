@@ -22,7 +22,7 @@ const FileUpload = (props) => {
     return (
         <div
             {...getRootProps()}
-            className="h-full w-full p-3 bg-green-100 rounded-3xl border-dashed border-2 border-green-400 cursor-pointer flex items-center justify-center shadow-xl"
+            className="max-h-[350px] h-full w-full p-3 bg-green-100 rounded-3xl border-dashed border-2 border-green-400 cursor-pointer flex items-center justify-center shadow-xl"
         >
             <input {...getInputProps()} />
             <div
