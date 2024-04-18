@@ -107,7 +107,7 @@ const Home = () => {
                                     }`}
                                 >
                                     <img
-                                        className={`h-[30px] w-[30px] animate-spin ${
+                                        className={`h-[30px] w-[30px] animate-spin-reverse ${
                                             shape !== "original"
                                                 ? "opacity-60 transition-all duration-300 transofrm hover:scale-105  "
                                                 : ""
